@@ -5,7 +5,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaboom63&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" align="right" width="35%" height="auto">
 
   <hr>
-    <h3 align="center"><a href="https://github.com/NotDarkn/website">Eatermon</a></li></h3>
+    <h3 align="center"><a href="https://github.com/Gaboom63/Eatermon">Eatermon</a></li></h3>
     <p align="center">
         Eatermon is the game i'm working on! Check it out here: <a href="https://github.com/Gaboom63/Eatermon">Eatermon</a>. 
     </p>
