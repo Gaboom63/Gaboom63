@@ -1,6 +1,6 @@
 <h1 align="center">Gaboom63</h1>
 
-<p align="center">Hi Everyone! I'm <b>@Gaboom63</b> Or <b>Gaboom63#2179</b> (or if you want to reach out to me through email: <b>fighterhen63@gmail.com</b>) I'm 16 years old. Anything Tech Is My speciality. I love to mess around with Chromebooks a lot! Anything about exploiting brings me joy.</p>
+<p align="center">Hi! I'm <b>@Gaboom63</b> Or <b>Gaboom63#2179</b> (or if you want to reach out to me through email: <b>fighterhen63@gmail.com</b> Anything Tech Is My speciality. I love to mess around with Chromebooks. Anything about exploiting brings me joy.</p>
       <img src="https://github-readme-stats.vercel.app/api?username=Gaboom63&theme=vue-dark&show_icons=true&hide_border=true&count_private=false" align="left" width="35%" height="auto">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaboom63&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" align="right" width="35%" height="auto">
 
