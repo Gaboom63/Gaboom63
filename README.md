@@ -24,8 +24,7 @@
         <i>Click on the images for direct links!</i>
     </p>
     <p align="center">
-      <a href="https://discord.com/users/911323172450742302">
-        <img src="https://i.imgur.com/HgS0pmK.png" width="128" height="auto">
+        <img src="https://i.imgur.com/HgS0pmK.png" href="https://discord.com/users/911323172450742302" width="128" height="auto">
       </a>
       <a href="mailto:fighterhen63@gmail.com">
         <img src="https://i.imgur.com/uy6Mht0.png" width="128" height="auto">
