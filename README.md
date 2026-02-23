@@ -1,15 +1,15 @@
-<h1 align="center">Gaboom63</h1>
+<h1 align="center">Hi 👋🏻 I'm Gaboom63!</h1>
 
-<p align="center">Hi! I'm <b>@Gaboom63</b> Or <b>Gaboom63#2179</b> (or if you want to reach out to me through email: <b>fighterhen63@gmail.com</b> I code in JS mainly.</p>
-      <img src="https://github-readme-stats.vercel.app/api?username=Gaboom63&theme=vue-dark&show_icons=true&hide_border=true&count_private=false" align="left" width="35%" height="auto">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaboom63&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" align="right" width="35%" height="auto">
-
-  <hr>
-    <h3 align="center"><a href="https://github.com/Gaboom63/Eatermon">Eatermon</a></li></h3>
+<p align="center">I love the game <b>My Singing Monsters</b>, love to code, and I mainly code in <b>Javascript/Typescript</b></p>
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=Gaboom63&theme=radical" align="left" width="35%" height="auto">
+<hr>
+    <h3 align="center"> 
+          <a href="https://github.com/Gaboom63/Eatermon-Reimagined">Eatermon</a> 
+    </h3>
     <p align="center">
-        Eatermon is the game i'm working on! Check it out here: <a href="https://github.com/Gaboom63/Eatermon">Eatermon</a>. 
+        Eatermon is the game i'm working on (In fact I just restarted woking on it!) Check it out by clicking the link above!</a>. 
     </p>
-        <hr>
+<hr>
         <div style="text-align: center;">
     <img width="100%" src="https://github.com/Gaboom63/Gaboom63/blob/main/Eater2.jpg">
 </div>
@@ -24,8 +24,6 @@
         <i>Click on the images for direct links!</i>
     </p>
     <p align="center">
-        <img src="https://i.imgur.com/HgS0pmK.png" href="https://discord.com/users/911323172450742302" width="128" height="auto">
-      </a>
       <a href="mailto:fighterhen63@gmail.com">
         <img src="https://i.imgur.com/uy6Mht0.png" width="128" height="auto">
       </a>
