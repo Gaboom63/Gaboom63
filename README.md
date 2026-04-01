@@ -4,10 +4,10 @@
       <img src="https://github-readme-stats-fast.vercel.app/api?username=Gaboom63&theme=radical" align="left" width="35%" height="auto">
 <hr>
     <h3 align="center"> 
-          <a href="https://github.com/Gaboom63/Eatermon-Reimagined">Eatermon</a> 
+          <a href="https://github.com/Gaboom63/MSM-API">MSM-API</a> 
     </h3>
     <p align="center">
-        Eatermon is the game i'm working on (In fact I just restarted woking on it!) Check it out by clicking the link above!</a>. 
+        I am the original creator of the MSM-API (My Singing Monster API) and coded it all solo! Please Use / Enjoy it!! :)</a>. 
     </p>
 <hr>
         <div style="text-align: center;">
