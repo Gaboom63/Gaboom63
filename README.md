@@ -11,7 +11,7 @@
     </p>
 <hr>
         <div style="text-align: center;">
-    <img width="100%" src="https://github.com/Gaboom63/Gaboom63/blob/main/Eater2.jpg">
+    <img width="100%" src="https://github.com/Gaboom63/Gaboom63/blob/main/MSM.png">
 </div>
 
   <hr>
