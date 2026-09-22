@@ -1,6 +1,15 @@
 <h1 align="center" fontFamily=OpenDyslexic> Welcome 👋🏻 I'm Gaboom63! </h1> 
 
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=radical&fontFamily=OpenDyslexic&preferLogin=false">    <img  alt="Gaboom63's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Gaboom63?cardType=level-alternate&theme=radical&fontFamily=OpenDyslexic&preferLogin=false" />  </a> <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Gaboom63&theme=radical" align="right" alt="GitHub Streak" height="199" /></a>
+<p align="center">
+  <a href="https://azurewebsites.net">
+    <img alt="Gaboom63's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Gaboom63?cardType=level-alternate&theme=radical&fontFamily=OpenDyslexic&preferLogin=false" width="48%" />
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Gaboom63&theme=radical" alt="GitHub Streak" width="48%" />
+  </a>
+</p>
+
+
 <hr>
 <h3 align="center">❖-- <a href="https://github.com/Gaboom63/MSM-API" target="_blank"><ins>MSM-API</ins></a> --❖</h3> 
 
